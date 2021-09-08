@@ -1,0 +1,16 @@
+{
+  "orgName": "Salesforce.org Hands-On Training",
+  "adminEmail": "cxorg@salesforce.com",
+  "description": "SFDO Week of Learning",
+  "template": "0TT5f000001Tk1Z",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
+      }
+    }
+  }
+}
