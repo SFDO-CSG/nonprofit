@@ -1,7 +1,7 @@
 {
   "orgName": "Salesforce.org Hands-On Training",
-  "adminEmail": "cxorg@salesforce.com",
-  "description": "SFDO Week of Learning",
+  "adminEmail": "cxorg+ngo@salesforce.com",
+  "description": "SFDO Education Summit",
   "template": "0TT5f00000EPZMi",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
