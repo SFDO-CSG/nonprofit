@@ -5,6 +5,7 @@ NPSP and PMM org for Hands-On Training sessions:
 + Go Further with Reports and Dashboards
 + Configure and Customize Opportunities in Nonprofit Success Pack (NPSP)
 + Intro to the Program Management Module
++ Get Started Using Flow
 
 ## Legal
 
