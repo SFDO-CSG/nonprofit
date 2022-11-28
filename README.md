@@ -7,6 +7,4 @@ NPSP and PMM org for Hands-On Training sessions:
 + Intro to the Program Management Module
 + Get Started Using Flow
 
-## Legal
-
-Note that is only for use by Salesforce and Salesforce.org for the purposes of internal sessions.
+Configured via Trialforce.
